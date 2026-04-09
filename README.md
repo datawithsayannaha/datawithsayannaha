@@ -33,9 +33,6 @@ I am an aspiring **Data Analyst** based in India. I specialize in transforming r
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datawithsayannaha&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=datawithsayannaha&theme=tokyonight" />
