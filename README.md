@@ -10,6 +10,7 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" height="32"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:youremail@gmail.com" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="32"/>
   </a>
