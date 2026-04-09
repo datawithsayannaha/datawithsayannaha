@@ -4,21 +4,21 @@
 
 </div>
 
-<br/>
-
 <p align="left">
   🤝 Connect with me:
 </p>
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="30"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="30"/>
   </a>
   
   <a href="mailto:youremail@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" width="30"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="30"/>
   </a>
 </p>
+
+---
 
 ---
 
