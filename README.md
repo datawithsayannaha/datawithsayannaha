@@ -1,7 +1,11 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Sayan%20Naha&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=58&descSize=18" width="100%"/>
+
 </div>
+
 <br/>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -13,29 +17,46 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 </div>
+
 <br/>
+
 ---
+
 <h2>🧠 About Me</h2>
+
 <table>
 <tr><td>
+
 <b>Role:</b> Aspiring Data Analyst <br/>
 <b>Location:</b> India 🇮🇳 <br/>
 <b>Goal:</b> WFH / Private Sector Job <br/>
 <b>Learning:</b> SQL, Power BI, Python <br/>
 <b>Passion:</b> Turning numbers into decisions 📊
+
 </td></tr>
 </table>
+
+<br/>
+
 ---
+
 ### ◈ &nbsp; Tech Stack
+
 <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF6584?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F7B731?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-26de81?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 </div>
+
 <br/>
+
 ---
+
 ### ◈ &nbsp; What I'm Building
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -64,6 +85,31 @@
     </td>
   </tr>
 </table>
+
 <br/>
+
+---
+
+### ◈ &nbsp; GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=FF6584&text_color=c9d1d9" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF" height="165"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 </div>
