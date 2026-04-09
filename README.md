@@ -6,25 +6,22 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:youremail@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30"/>
-</a>
-  &nbsp;
-
-<br/>
-<p align="left">🤝 Connect with me:
-
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sayan Naha" height="30" width="40" /></a>
-<a href="mailto:youremail@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/>
-</a>
+<p align="left">
+  🤝 Connect with me:
 </p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="30"/>
+  </a>
+  
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" width="30"/>
+  </a>
+</p>
+
+---
+
 <br/>
 ---
 
