@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Sayan Naha — Data Analyst Portfolio</title>
 
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
 
 <style>
 :root {
@@ -128,7 +128,7 @@ footer {
   <div class="card">
     <p>
       I am an aspiring Data Analyst focused on SQL, Python, Power BI, and Excel.
-      My goal is to secure a Work From Home or private sector role and grow in the data field.
+      My goal is to secure a Work From Home or private sector role.
     </p>
   </div>
 </section>
@@ -158,7 +158,6 @@ footer {
     <h3>SQL Data Analysis</h3>
     <p>Exploratory data analysis using SQL + Python.</p>
   </div>
-
 </section>
 
 <!-- CONTACT -->
