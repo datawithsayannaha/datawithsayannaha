@@ -1,82 +1,179 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Sayan Naha — Data Analyst Portfolio</title>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&pause=1000&color=BE50FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sayan+Naha;Aspiring+Data+Analyst+📊;Turning+Numbers+into+Decisions+🚀" />
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet"/>
 
-</div>
+<style>
+:root {
+  --violet: #7c3aed;
+  --pink: #ec4899;
+  --bg: #08080f;
+  --bg3: #110f22;
+  --border: #1e1a38;
+  --text: #e8e6ff;
+  --muted: #6b7280;
+}
 
----
+* { margin:0; padding:0; box-sizing:border-box; }
 
-## 🧠 About Me
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Syne', sans-serif;
+}
 
-<table align="center">
-<tr><td>
+/* NAV */
+nav {
+  position: fixed;
+  width:100%;
+  padding:15px 20px;
+  display:flex;
+  justify-content:space-between;
+  background:rgba(0,0,0,0.8);
+}
+nav a {
+  color:var(--muted);
+  text-decoration:none;
+  margin-left:20px;
+}
+nav a:hover { color:white; }
 
-🎯 <b>Role:</b> Aspiring Data Analyst <br/>
-📍 <b>Location:</b> India 🇮🇳 <br/>
-💼 <b>Goal:</b> WFH / Private Sector Job <br/>
-⚡ <b>Passion:</b> Turning Data → Decisions 📊 <br/>
-💬 <b>Status:</b> Open to Work  
+/* HERO */
+.hero {
+  text-align:center;
+  padding:120px 20px 60px;
+}
+.hero h1 {
+  font-size:60px;
+  background:linear-gradient(135deg,#a78bfa,#ec4899);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+}
+.hero p {
+  margin-top:10px;
+  color:#c4bbf0;
+}
 
-</td></tr>
-</table>
+/* SECTION */
+.section {
+  max-width:800px;
+  margin:60px auto;
+  padding:0 20px;
+}
 
----
+/* CARD */
+.card {
+  background:var(--bg3);
+  border:1px solid var(--border);
+  padding:20px;
+  border-radius:12px;
+  margin-bottom:15px;
+}
 
-## 🛠️ Tech Stack
+/* SKILLS */
+.skills {
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:15px;
+}
 
-<div align="center">
+/* BUTTON */
+.btn {
+  display:inline-block;
+  margin-top:20px;
+  padding:10px 20px;
+  border-radius:30px;
+  background:linear-gradient(135deg,var(--violet),var(--pink));
+  color:white;
+  text-decoration:none;
+}
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+/* FOOTER */
+footer {
+  text-align:center;
+  padding:40px;
+  color:var(--muted);
+}
+</style>
+</head>
 
-</div>
+<body>
 
----
+<!-- NAV -->
+<nav>
+  <div>Sayan Naha</div>
+  <div>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+  </div>
+</nav>
 
-## 📂 Projects
+<!-- HERO -->
+<section class="hero">
+  <h1>Sayan Naha</h1>
+  <p>Data Analyst | SQL · Python · Power BI · Excel</p>
+  <p>Turning raw data into meaningful insights 📊</p>
 
-<div align="center">
+  <a href="https://github.com/YOUR_USERNAME" class="btn">GitHub</a>
+</section>
 
-| 🚀 Project | 🧰 Tech | 📊 Status |
-|----------|--------|----------|
-| 📊 Sales Dashboard | Power BI, DAX | 🔄 In Progress |
-| 🗄️ SQL Data Analysis | PostgreSQL, Python | 🔄 In Progress |
+<!-- ABOUT -->
+<section class="section" id="about">
+  <h2>About Me</h2>
+  <div class="card">
+    <p>
+      I am an aspiring Data Analyst focused on SQL, Python, Power BI, and Excel.
+      My goal is to secure a Work From Home or private sector role and grow in the data field.
+    </p>
+  </div>
+</section>
 
-</div>
+<!-- SKILLS -->
+<section class="section" id="skills">
+  <h2>Skills</h2>
 
----
+  <div class="skills">
+    <div class="card">🐍 Python (Pandas, NumPy, Matplotlib)</div>
+    <div class="card">🗄️ SQL (PostgreSQL, Joins, CTEs)</div>
+    <div class="card">📊 Power BI (DAX, Dashboards)</div>
+    <div class="card">📗 Excel (Pivot, VLOOKUP)</div>
+  </div>
+</section>
 
-## 📊 GitHub Stats
+<!-- PROJECTS -->
+<section class="section" id="projects">
+  <h2>Projects</h2>
 
-<div align="center">
+  <div class="card">
+    <h3>Sales Dashboard</h3>
+    <p>Power BI dashboard with KPI tracking and trend analysis.</p>
+  </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayannaha&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannaha&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <div class="card">
+    <h3>SQL Data Analysis</h3>
+    <p>Exploratory data analysis using SQL + Python.</p>
+  </div>
 
-</div>
+</section>
 
----
+<!-- CONTACT -->
+<section class="section">
+  <h2>Connect</h2>
+  <div class="card">
+    <p>Email: youremail@gmail.com</p>
+    <p>LinkedIn: linkedin.com/in/YOUR_USERNAME</p>
+  </div>
+</section>
 
-## 🌐 Connect
+<!-- FOOTER -->
+<footer>
+  © 2026 Sayan Naha · Data Analyst
+</footer>
 
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:youremail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-✨ <i>"Turning raw numbers into decisions that matter."</i> ✨
-
-</div>
+</body>
+</html>
