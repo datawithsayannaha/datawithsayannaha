@@ -22,7 +22,7 @@
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sayan Naha" height="30" width="40" /></a>
 <a href="mailto:youremail@gmail.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/>
 </a>
 </p>
 <br/>
