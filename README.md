@@ -5,14 +5,11 @@
 </div>
 
 <h3 align="left">🤝 Connect with me</h3>
-
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="32"/>
   </a>
-
   &nbsp;&nbsp;&nbsp;
-
   <a href="mailto:youremail@gmail.com" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="32"/>
   </a>
