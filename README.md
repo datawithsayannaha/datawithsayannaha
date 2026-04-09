@@ -1,95 +1,114 @@
 <div align="center">
 
-# 👋 Hey, I'm Sayan Naha
-
-### 🚀 Aspiring Data Analyst from India
-
-*Turning raw data into meaningful stories, one query at a time.*
-
----
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Data+Analyst+in+Training;SQL+%7C+Python+%7C+Power+BI;Consistency+beats+talent+%F0%9F%92%AA)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Sayan%20Naha&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
-
----
-
-## 🧠 About Me
-
-```yaml
-name: Sayan Naha
-role: Aspiring Data Analyst
-location: India 🇮🇳
-goal: Land a WFH / Private Sector role in 3–5 months
-currently_learning: ["Advanced SQL", "Power BI", "Python for Data"]
-interests: ["Data Visualization", "Business Insights", "Storytelling with Data"]
-fun_fact: "Consistency beats talent 💪"
-```
-
----
-
-## 🛠️ Tools & Technologies
-
-<div align="center">
-
-| Category | Tools |
-|----------|-------|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| Visualization | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-
-</div>
-
----
-
-## 📈 Current Focus
-
-```
-📌 Advanced SQL          ████████░░  80%
-📌 Power BI Dashboards   ██████░░░░  60%
-📌 Python for Analytics  ██████░░░░  65%
-📌 Real-world Projects   ████░░░░░░  40%  ← Building now!
-```
-
----
-
-## 📂 Projects
-
-| Project | Tech | Status |
-|---------|------|--------|
-| 📊 Sales Dashboard | Power BI, DAX | 🔄 In Progress |
-| 🗄️ SQL Data Analysis | PostgreSQL | 🔄 In Progress |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayannaha&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayannaha&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Consistency beats talent — every single time."*
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sayannaha&color=7F77DD&style=flat-square)
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF6584?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+</div>
 
+<br/>
+
+---
+
+### ◈ &nbsp; Who Am I?
+
+```python
+sayan = {
+    "role"     : "Aspiring Data Analyst",
+    "location" : "India 🇮🇳",
+    "goal"     : "WFH / Private Sector Job",
+    "learning" : ["Advanced SQL", "Power BI", "Python"],
+    "passion"  : "Turning numbers into decisions",
+    "mantra"   : "Consistency beats talent 💪"
+}
+```
+
+<br/>
+
+---
+
+### ◈ &nbsp; Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF6584?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F7B731?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-26de81?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+### ◈ &nbsp; What I'm Building
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <br/>
+      <b>📊 Sales Dashboard</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Power_BI-F7B731?style=flat-square&logo=powerbi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DAX-6C63FF?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      <sub>Interactive KPI dashboard with filters & trend analysis</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-In_Progress-FF6584?style=flat-square"/>
+      <br/>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      <b>🗄️ SQL Data Analysis</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-26de81?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-6C63FF?style=flat-square&logo=python&logoColor=white"/>
+      <br/><br/>
+      <sub>End-to-end exploratory analysis on real-world dataset</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-In_Progress-FF6584?style=flat-square"/>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### ◈ &nbsp; GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=FF6584&text_color=c9d1d9" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF" height="165"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 </div>
