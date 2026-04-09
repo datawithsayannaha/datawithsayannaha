@@ -1,8 +1,10 @@
-<div align="center" style="margin-bottom:-50px;">
+<div align="center" style="margin-bottom:-20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=170&section=header&text=Sayan%20Naha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=60&descSize=16" width="100%"/>
 </div>
+
 ---
-<h3 align="left" style="margin-top:0;">🤝 Connect with me</h3>
+
+<h3 align="left">🤝 Connect with me</h3>
 
 <p align="left" style="margin-top:-10px;">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" style="text-decoration:none;">
