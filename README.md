@@ -11,10 +11,10 @@
 <table align="center">
 <tr><td>
 
-🚀 <b>Role:</b> Aspiring Data Analyst <br/>
+🎯 <b>Role:</b> Aspiring Data Analyst <br/>
 📍 <b>Location:</b> India 🇮🇳 <br/>
-💼 <b>Goal:</b> WFH · Private Sector Job <br/>
-🌟 <b>Passion:</b> Turning numbers into decisions <br/>
+💼 <b>Goal:</b> WFH / Private Sector Job <br/>
+⚡ <b>Passion:</b> Turning Data → Decisions 📊 <br/>
 💬 <b>Status:</b> Open to Work  
 
 </td></tr>
@@ -35,8 +35,48 @@
 
 ---
 
+## 📂 Projects
+
 <div align="center">
 
-✨ <i>"Data speaks — I translate numbers into powerful decisions."</i> ✨
+| 🚀 Project | 🧰 Tech | 📊 Status |
+|----------|--------|----------|
+| 📊 Sales Dashboard | Power BI, DAX | 🔄 In Progress |
+| 🗄️ SQL Data Analysis | PostgreSQL, Python | 🔄 In Progress |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sayannaha&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannaha&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:youremail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ <i>"Turning raw numbers into decisions that matter."</i> ✨
 
 </div>
