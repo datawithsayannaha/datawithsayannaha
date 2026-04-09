@@ -12,10 +12,7 @@
   </a>
   &nbsp;
   <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6584?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+
 </div>
 
 <br/>
