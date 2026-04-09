@@ -1,19 +1,22 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Sayan%20Naha&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=58&descSize=18" width="100%"/>
+<div align="center" style="margin-bottom:10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=170&section=header&text=Sayan%20Naha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=60&descSize=16" width="100%"/>
 </div>
+
 <h3 align="left">🤝 Connect with me</h3>
+
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="32"/>
   </a>
-  
-  
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:youremail@gmail.com" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="32"/>
   </a>
 </p>
-<br/>
-----
+
+---
 
 ### 💫 About Me:
 I am an aspiring **Data Analyst** based in India. I have a passion for transforming raw, messy data into clear, actionable business insights. Currently, I am focused on mastering advanced analytics and looking for **WFH** or **Private Sector** opportunities.
