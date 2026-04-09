@@ -22,18 +22,29 @@
 
 ---
 
-### ◈ &nbsp; Who Am I?
+<div align="center">
 
-```python
+<h2>🧠 About Me</h2>
+
+<table>
+<tr><td>
+
+<pre>
+<code>
 sayan = {
-    "role"     : "Aspiring Data Analyst",
-    "location" : "India 🇮🇳",
-    "goal"     : "WFH / Private Sector Job",
-    "learning" : ["Advanced SQL", "Power BI", "Python"],
-    "passion"  : "Turning numbers into decisions",
-    "mantra"   : "Consistency beats talent 💪"
+  "role"     : "Aspiring Data Analyst",
+  "location" : "India 🇮🇳",
+  "goal"     : "WFH / Private Sector Job",
+  "learning" : ["Advanced SQL", "Power BI", "Python"],
+  "passion"  : "Turning numbers into decisions"
 }
-```
+</code>
+</pre>
+
+</td></tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -87,20 +98,6 @@ sayan = {
 
 <br/>
 
----
 
-
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 </div>
