@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Python;Focused+on+Landing+a+Job+Soon" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Python" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ I am an aspiring **Data Analyst** based in India. I specialize in transforming r
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datawithsayannaha&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=datawithsayannaha&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
