@@ -10,82 +10,55 @@
   <a href="https://www.linkedin.com/in/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  &nbsp;
   <a href="mailto:youremail@gmail.com">
- <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF6584?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+  &nbsp;
 
 <br/>
 
 ---
 
-<h2>🧠 About Me</h2>
+### 💫 About Me:
+I am an aspiring **Data Analyst** based in India. I have a passion for transforming raw, messy data into clear, actionable business insights. Currently, I am focused on mastering advanced analytics and looking for **WFH** or **Private Sector** opportunities.
 
-<table>
-<tr><td>
-
-<b>Role:</b> Aspiring Data Analyst <br/>
-<b>Location:</b> India 🇮🇳 <br/>
-<b>Goal:</b> WFH / Private Sector Job <br/>
-<b>Learning:</b> SQL, Power BI, Python <br/>
-<b>Passion:</b> Turning numbers into decisions 📊
-
-</td></tr>
-</table>
-
-<br/>
+- 🔭 I’m currently working on **Advanced Power BI Dashboards**
+- 🌱 I’m currently learning **Statistical Modeling & Machine Learning basics**
+- 👯 I’m looking to collaborate on **Open Source Data Projects**
+- 💬 Ask me about **SQL, Python, or Data Visualization**
 
 ---
 
-### ◈ &nbsp; Tech Stack
+### 🚀 Tech Stack:
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF6584?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F7B731?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-26de81?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-</div>
-
-<br/>
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Viz** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Libraries** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
 
 ---
 
-### ◈ &nbsp; What I'm Building
+### 📊 GitHub Stats:
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <br/>
-      <b>📊 Sales Dashboard</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Power_BI-F7B731?style=flat-square&logo=powerbi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DAX-6C63FF?style=flat-square&logoColor=white"/>
-      <br/><br/>
-      <sub>Interactive KPI dashboard with filters & trend analysis</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-In_Progress-FF6584?style=flat-square"/>
-      <br/>
-    </td>
-    <td align="center" width="50%">
-      <br/>
-      <b>🗄️ SQL Data Analysis</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-26de81?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-6C63FF?style=flat-square&logo=python&logoColor=white"/>
-      <br/><br/>
-      <sub>End-to-end exploratory analysis on real-world dataset</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-In_Progress-FF6584?style=flat-square"/>
-      <br/>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Sayan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
+### 🛠️ Featured Projects:
+
+* **[Sales Performance Dashboard](https://github.com/YOUR_GITHUB_USERNAME/project-link)** - An interactive Power BI dashboard analyzing revenue trends.
+* **[Customer Churn Analysis](https://github.com/YOUR_GITHUB_USERNAME/project-link)** - Exploratory Data Analysis using Python and SQL.
+
+---
+
+### 🤝 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sayan Naha" height="30" width="40" /></a>
+<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sayan Naha" height="30" width="40" /></a>
+</p>
