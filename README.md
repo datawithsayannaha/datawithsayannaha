@@ -26,9 +26,6 @@
 
 <h2>🧠 About Me</h2>
 
-<table>
-<tr><td>
-
 <pre>
 <code>
 sayan = {
@@ -40,9 +37,6 @@ sayan = {
 }
 </code>
 </pre>
-
-</td></tr>
-</table>
 
 </div>
 
