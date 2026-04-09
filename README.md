@@ -12,8 +12,8 @@
   </a>
   &nbsp;
   <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6584?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30"/>
+</a>
   &nbsp;
 
 <br/>
