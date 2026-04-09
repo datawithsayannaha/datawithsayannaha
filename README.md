@@ -1,9 +1,24 @@
-# Hi there, I'm Sayan Naha 👋
-### 📊 Data Analyst | SQL | Python | Power BI
+<div align="center">
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=SAYAN-NAHA&label=Profile%20views&color=0e75b6&style=flat" alt="Sayan Naha" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Sayan%20Naha&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF6584?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
 
 ---
 
