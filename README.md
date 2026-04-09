@@ -10,9 +10,6 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="32"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="mailto:youremail@gmail.com" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="32"/>
   </a>
@@ -22,7 +19,7 @@
 
 
 ### 💫 About Me:
-I am an aspiring **Data Analyst** based in India. I have a passion for transforming raw, messy data into clear, actionable business insights. Currently, I am focused on mastering advanced analytics and looking for **WFH** or **Private Sector** opportunities.
+I am an aspiring **Data Analyst** based in India. I have a passion for transforming raw, messy data into clear, actionable business insights. Currently, I am focused on mastering advanced analytics and looking for **Private Sector** or **Remote Job** opportunities.
 
 - 🔭 I’m currently working on **Advanced Power BI Dashboards**
 - 🌱 I’m currently learning **Statistical Modeling & Machine Learning basics**
