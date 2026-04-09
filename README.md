@@ -22,24 +22,19 @@
 
 ---
 
-<div align="center">
-
 <h2>🧠 About Me</h2>
 
-<pre>
-<code>
-sayan = {
-  "role"     : "Aspiring Data Analyst",
-  "location" : "India 🇮🇳",
-  "goal"     : "WFH / Private Sector Job",
-  "learning" : ["Advanced SQL", "Power BI", "Python"],
-  "passion"  : "Turning numbers into decisions"
-}
-</code>
-</pre>
+<table>
+<tr><td>
 
-</div>
+<b>Role:</b> Aspiring Data Analyst <br/>
+<b>Location:</b> India 🇮🇳 <br/>
+<b>Goal:</b> WFH / Private Sector Job <br/>
+<b>Learning:</b> SQL, Power BI, Python <br/>
+<b>Passion:</b> Turning numbers into decisions 📊
 
+</td></tr>
+</table>
 <br/>
 
 ---
