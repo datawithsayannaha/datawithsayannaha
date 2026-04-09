@@ -9,7 +9,8 @@
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="32"/>
-  </a> &nbsp;&nbsp;
+  </a> 
+  &nbsp;&nbsp;
   <a href="mailto:youremail@gmail.com" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="32"/>
   </a>
