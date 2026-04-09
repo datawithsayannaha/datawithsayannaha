@@ -4,24 +4,19 @@
 
 </div>
 
-<p align="left">
-  🤝 Connect with me:
-</p>
+<h3 align="left">🤝 Connect with me</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="30"/>
   </a>
-  
+  &nbsp;&nbsp;
   <a href="mailto:youremail@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="30"/>
   </a>
 </p>
-
+<br>
 ---
-
----
-
 <br/>
 ---
 
