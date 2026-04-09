@@ -24,20 +24,17 @@
 
 <h2>🧠 About Me</h2>
 
-<pre>
-<code>
-> initializing profile...
+<table>
+<tr><td>
 
-const sayan = {
-  role: "Aspiring Data Analyst",
-  location: "India 🇮🇳",
-  status: "Learning & Building 🚀",
-  focus: ["SQL", "Power BI", "Python"]
-};
+<b>Role:</b> Aspiring Data Analyst <br/>
+<b>Location:</b> India 🇮🇳 <br/>
+<b>Goal:</b> WFH / Private Sector Job <br/>
+<b>Learning:</b> SQL, Power BI, Python <br/>
+<b>Passion:</b> Turning numbers into decisions 📊
 
-> ready for opportunities 💼
-</code>
-</pre>
+</td></tr>
+</table>
 ---
 
 ### ◈ &nbsp; Tech Stack
