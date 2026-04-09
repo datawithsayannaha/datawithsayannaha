@@ -1,4 +1,4 @@
-<div align="center" style="margin-bottom:-20px;">
+<div align="center" style="margin-bottom:-50px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=170&section=header&text=Sayan%20Naha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=60&descSize=16" width="100%"/>
 </div>
 
