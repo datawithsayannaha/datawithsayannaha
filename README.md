@@ -44,9 +44,11 @@ I am an aspiring **Data Analyst** based in India. I specialize in transforming r
 
 | Category | Tools & Technologies |
 |---|---|
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python &nbsp; • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> MySQL &nbsp;  • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20"/> SQL Server |
-| **Data Viz** | <img src="https://img.icons8.com/color/48/power-bi.png" height="20"/> Power BI &nbsp;  • <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="20"/> Excel &nbsp;  • <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20"/> Tableau |
-| **Libraries** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20"/> Pandas &nbsp; • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20"/> NumPy &nbsp; • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="20"/> Matplotlib &nbsp; • <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="20"/> Seaborn |
+| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> MySQL &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20"/> SQL Server |
+| **Data Viz** | <img src="https://img.icons8.com/color/48/power-bi.png" height="20"/> Power BI &nbsp; <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="20"/> Excel &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="20"/> Tableau |
+| **Libraries** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20"/> Pandas &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20"/> NumPy &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="20"/> Matplotlib &nbsp; <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="20"/> Seaborn |
+
+
 
 
 
