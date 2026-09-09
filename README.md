@@ -24,10 +24,7 @@
 
 </div>
 
-
 --- 
-<h3 align="left">🤝 Connect with me</h3> <p align="left"> <a href="https://linkedin.com/in/YOUR_REAL_LINKEDIN" target="_blank"> <img src="https://img.icons8.com/color/48/linkedin.png" height="32"/> </a> <a href="mailto:YOUR_REAL_EMAIL@gmail.com"> <img src="https://img.icons8.com/color/48/gmail-new.png" height="32"/> </a> </p> 
----
 
 ## 👋 About Me
 
