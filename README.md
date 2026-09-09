@@ -193,19 +193,6 @@ Worked on multiple analytics projects involving:
 
 ---
 
-## 📚 Currently Learning & Improving
-
-- Advanced SQL
-- Advanced Power BI & DAX
-- Data Storytelling
-- Business Analysis
-- Statistics for Data Analytics
-- Python for Analytics
-- Microsoft Fabric Fundamentals
-- Azure Fundamentals
-- Machine Learning Fundamentals
-
----
 
 ## 🎓 Education
 
