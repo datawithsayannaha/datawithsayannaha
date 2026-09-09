@@ -1,79 +1,107 @@
-# 👋 Hi, I'm Sayan Naha
+<div align="center">
 
-### 📊 Aspiring Data Analyst | SQL | Power BI | Python | Excel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:5DE0E6&height=220&section=header&text=Sayan%20Naha&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Turning+Data+into+Actionable+Insights;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Data+Visualization+%7C+EDA+%7C+Business+Insights" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/datawithsayannaha">
+<img src="https://img.shields.io/badge/GitHub-datawithsayannaha-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://math-to-metrics.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-Math%20to%20Metrics-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👋 About Me
 
 I am an **Aspiring Data Analyst** with a strong foundation in **SQL, Power BI, Excel, Python, Tableau, and Data Visualization**.
 
-I enjoy transforming raw data into meaningful insights, building interactive dashboards, analyzing business performance, and presenting data in a clear and actionable way.
+I enjoy working with data to uncover patterns, build meaningful KPIs, create interactive dashboards, and translate raw data into **clear business insights**.
 
-My academic background in **Mathematics and Applied Mathematics** has strengthened my analytical thinking, problem-solving, and quantitative reasoning skills.
+My background in **Mathematics and Applied Mathematics** has strengthened my analytical thinking, problem-solving ability, and quantitative reasoning.
 
----
+### 🎯 Currently Focused On
 
-## 🚀 About Me
-
-- 🔎 Focused on **Data Analytics & Business Intelligence**
-- 📊 Experienced in building **interactive Power BI dashboards**
-- 🗄️ Strong foundation in **SQL and relational data analysis**
-- 🐍 Using **Python, Pandas & NumPy** for data analysis and EDA
-- 📗 Skilled in **Excel, Power Query & data transformation**
-- 📈 Building dashboards and reports using **Power BI & Tableau**
-- 🧮 Strong quantitative background in **Mathematics & Applied Mathematics**
-- ☁️ Familiar with **Microsoft Fabric & Azure fundamentals**
-- 💼 Currently looking for **Data Analyst / BI Analyst / Reporting Analyst opportunities**
+- Building real-world **Data Analytics projects**
+- Strengthening **SQL & Python for data analysis**
+- Developing advanced **Power BI dashboards and DAX measures**
+- Improving **Data Storytelling & Business Analysis**
+- Preparing for **Data Analyst opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-### 📊 Business Intelligence & Visualization
+### 📊 Data Analytics & Business Intelligence
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-742774?style=for-the-badge&logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-742774?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
 ### 🗄️ SQL & Databases
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 **SQL:** Joins • CTEs • Subqueries • Window Functions • Aggregations • CASE WHEN • Date Functions • Data Cleaning
 
-### 🐍 Python & Data Analysis
+### 🐍 Python for Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
 **Python:** Data Cleaning • EDA • Data Manipulation • Visualization • Statistical Analysis
 
 ### ☁️ Cloud & Modern Analytics
 
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Basic-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Basic-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-Basic-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-Basic-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
-**Microsoft Fabric:** OneLake • Lakehouse • Data Pipelines • Dataflows Gen2 — Basic
+**Microsoft Fabric:** OneLake • Lakehouse • Data Pipelines • Dataflows Gen2 — *Basic*
 
-**Azure:** Azure Data Lake concepts • Cloud Data Fundamentals — Basic
+**Azure:** Azure Data Lake Concepts • Cloud Data Fundamentals — *Basic*
 
 ---
 
-## 📈 Data Analytics Skills
+## 📈 Data Analytics Capabilities
 
 | Area | Skills |
 |---|---|
-| **Data Cleaning** | Excel, Power Query, SQL, Pandas |
+| **Data Cleaning** | Excel, Power Query, Python Pandas, SQL |
 | **Data Transformation** | Power Query, SQL, Pandas |
 | **Data Modeling** | Power BI Semantic Models, Relationships, Star Schema |
 | **Data Analysis** | SQL, Python, Excel, Power BI |
 | **Data Visualization** | Power BI, Tableau, Excel, Matplotlib, Seaborn |
-| **DAX** | Measures, Calculated Columns, Time Intelligence, Filter Context |
 | **Business Intelligence** | KPI Development, Trend Analysis, Performance Analysis |
+| **DAX** | Measures, Calculated Columns, Time Intelligence, Filter Context |
 | **Statistics** | Descriptive Statistics, Distribution, Correlation, Hypothesis Testing Basics |
 | **Reporting** | Interactive Dashboards, KPI Reports, Data Storytelling |
 
@@ -81,17 +109,19 @@ My academic background in **Mathematics and Applied Mathematics** has strengthen
 
 ## 🚀 Featured Projects
 
+I have worked on **real-world, end-to-end analytics projects** covering sales, logistics, banking, customer behavior, workforce analytics, and business intelligence.
+
 ### 🛒 Amazon E-Commerce Sales Analytics
 
 **Tools:** SQL • Python • Power BI
 
 - Analyzed e-commerce sales and revenue performance
-- Performed data cleaning and exploratory data analysis
+- Performed data cleaning and exploratory analysis
 - Used SQL for analytical queries
 - Built an interactive Power BI dashboard
 - Created KPIs for sales, revenue, orders, and trends
 
-🔗 [View GitHub Projects](https://github.com/datawithsayannaha)
+🔗 **[View Project →](https://github.com/datawithsayannaha)**
 
 ---
 
@@ -103,9 +133,9 @@ My academic background in **Mathematics and Applied Mathematics** has strengthen
 - Built interactive KPI dashboards
 - Created DAX measures for business metrics
 - Analyzed delivery and operational trends
-- Designed reports for business decision-making
+- Designed dashboards for decision-making
 
-🔗 [View GitHub Projects](https://github.com/datawithsayannaha)
+🔗 **[View Project →](https://github.com/datawithsayannaha)**
 
 ---
 
@@ -114,70 +144,63 @@ My academic background in **Mathematics and Applied Mathematics** has strengthen
 **Tools:** SQL • Power BI • DAX
 
 - Analyzed banking performance and revenue metrics
-- Developed business KPIs and analytical measures
-- Analyzed risk and customer-related metrics
+- Created business KPIs and analytical measures
+- Investigated risk and customer-related metrics
 - Built interactive Power BI reporting
 - Presented insights through data storytelling
 
-🔗 [View GitHub Projects](https://github.com/datawithsayannaha)
+🔗 **[View Project →](https://github.com/datawithsayannaha)**
 
 ---
 
-## 📂 Other Analytics Projects
+### 📊 Business & Sales Analytics Projects
 
-I have worked on multiple end-to-end analytics projects covering:
+**Tools:** Excel • SQL • Power BI • Tableau • Python
 
-- 📊 Sales & Revenue Analytics
-- 🛒 E-Commerce Analytics
-- 🏦 Banking Analytics
-- 🚚 Logistics Analytics
-- 👥 Customer Analytics
-- 👨‍💼 Workforce Analytics
-- 💰 Financial Analysis
-- 📈 KPI & Performance Analysis
-- 🐍 Exploratory Data Analysis
-- 📊 Interactive BI Dashboards
-- 📗 Advanced Excel Analytics
-- 📉 Tableau Visualizations
+Worked on multiple analytics projects involving:
 
-🔗 **[Explore All My Projects →](https://github.com/datawithsayannaha)**
+- Sales & Revenue Analysis
+- Customer Analysis
+- Operational Analytics
+- Workforce Analytics
+- Financial Analysis
+- KPI Monitoring
+- Exploratory Data Analysis
+- Interactive Dashboard Development
+
+🔗 **[Explore All Projects →](https://github.com/datawithsayannaha)**
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Can Do
 
-### 1. Data Collection & Understanding
-Understand the business problem, data sources, structure, and required KPIs.
-
-### 2. Data Cleaning
-Handle missing values, duplicates, inconsistent data, incorrect formats, and data quality issues.
-
-### 3. Data Transformation
-Transform and prepare datasets using **SQL, Power Query, Excel, and Pandas**.
-
-### 4. Data Analysis
-Perform analytical queries, exploratory analysis, trend analysis, segmentation, and KPI analysis.
-
-### 5. Data Modeling
-Build structured data models and relationships for efficient reporting and analysis.
-
-### 6. Data Visualization
-Create interactive dashboards and reports using **Power BI, Tableau, and Excel**.
-
-### 7. Business Insights
-Convert analytical findings into clear and actionable business insights.
+- 🧹 Clean and transform raw datasets
+- 🗄️ Write analytical SQL queries
+- 🐍 Perform data analysis using Python and Pandas
+- 📊 Build interactive Power BI dashboards
+- 📐 Create DAX measures and business KPIs
+- 🔗 Build data models and relationships
+- 📈 Perform exploratory data analysis
+- 📊 Create visualizations using Power BI, Tableau, and Python
+- 💡 Identify trends, patterns, and business insights
+- 📖 Communicate analytical findings through data storytelling
 
 ---
 
-## 📚 Currently Learning
+## 🔄 Analytics Workflow
+
+**Raw Data → Data Cleaning → Data Transformation → Data Modeling → EDA → SQL/Python Analysis → KPI Development → Visualization → Business Insights**
+
+---
+
+## 📚 Currently Learning & Improving
 
 - Advanced SQL
-- Advanced Power BI
-- Advanced DAX
+- Advanced Power BI & DAX
 - Data Storytelling
 - Business Analysis
 - Statistics for Data Analytics
-- Python for Data Analysis
+- Python for Analytics
 - Microsoft Fabric Fundamentals
 - Azure Fundamentals
 - Machine Learning Fundamentals
@@ -220,20 +243,17 @@ Worked on mathematical problem-solving, analytical reasoning, and providing stru
 
 ## 🎯 Career Focus
 
-I am currently seeking opportunities in:
+I am currently looking for opportunities as a:
 
-- **Data Analyst**
-- **BI Analyst**
-- **Reporting Analyst**
-- **Business Analyst**
+**Data Analyst | BI Analyst | Reporting Analyst | Business Analyst**
 
-I am particularly interested in roles involving **data analysis, business intelligence, reporting, dashboard development, KPI analysis, and data-driven decision-making**.
+Interested in working on **data-driven business problems, reporting, dashboards, analytics, KPI analysis, and decision support**.
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 **[Math to Metrics – Portfolio](https://math-to-metrics.lovable.app/)**
+🔗 **(https://math-to-metrics.lovable.app/)**
 
 🔗 **[GitHub – @datawithsayannaha](https://github.com/datawithsayannaha)**
 
@@ -245,10 +265,14 @@ I am particularly interested in roles involving **data analysis, business intell
 
 💻 **GitHub:** [datawithsayannaha](https://github.com/datawithsayannaha)
 
-🌐 **Portfolio:** [Math to Metrics](https://math-to-metrics.lovable.app/)
+🌐 **Portfolio:** (https://math-to-metrics.lovable.app/)
 
 ---
+
+<div align="center">
 
 ### 💡 Turning Data Into Insights, One Analysis at a Time.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=datawithsayannaha&color=6C63FF&style=for-the-badge)
+
+</div>
