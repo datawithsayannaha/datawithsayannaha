@@ -217,7 +217,6 @@ Worked on multiple analytics projects involving:
 Worked on mathematical problem-solving, analytical reasoning, and providing structured solutions to complex quantitative problems.
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -229,6 +228,7 @@ Worked on mathematical problem-solving, analytical reasoning, and providing stru
   <img src="https://streak-stats.demolab.com?user=datawithsayannaha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
 ---
 
 ## 🎯 Career Focus
