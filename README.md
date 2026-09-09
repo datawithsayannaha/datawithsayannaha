@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/GitHub-datawithsayannaha-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://math-to-metrics.lovable.app/">
+<a href="https://snsayan-data-analytics-portfolio.lovable.app/">
 <img src="https://img.shields.io/badge/Portfolio-Math%20to%20Metrics-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -240,7 +240,7 @@ Interested in working on **data-driven business problems, reporting, dashboards,
 
 ## 🌐 Portfolio
 
-🔗 **(https://math-to-metrics.lovable.app/)**
+🔗 **(https://snsayan-data-analytics-portfolio.lovable.app/)**
 
 🔗 **[GitHub – @datawithsayannaha](https://github.com/datawithsayannaha)**
 
@@ -252,7 +252,7 @@ Interested in working on **data-driven business problems, reporting, dashboards,
 
 💻 **GitHub:** [datawithsayannaha](https://github.com/datawithsayannaha)
 
-🌐 **Portfolio:** (https://math-to-metrics.lovable.app/)
+🌐 **Portfolio:** (https://snsayan-data-analytics-portfolio.lovable.app/)
 
 ---
 
