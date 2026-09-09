@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://snsayan-data-analytics-portfolio.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-Math%20to%20Metrics-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+
 </a>
 
 </div>
