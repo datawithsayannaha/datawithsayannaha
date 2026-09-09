@@ -221,12 +221,12 @@ Worked on mathematical problem-solving, analytical reasoning, and providing stru
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=datawithsayannaha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithsayannaha&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=datawithsayannaha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithsayannaha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=datawithsayannaha&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=datawithsayannaha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
