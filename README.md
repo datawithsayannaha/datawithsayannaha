@@ -199,12 +199,11 @@ Worked on multiple analytics projects involving:
 ### M.Sc. in Applied Mathematics
 
 **Netaji Subhas Open University**  
-2023
 
 ### B.Sc. in Mathematics (Hons.)
 
 **West Bengal State University**  
-2020
+
 
 ---
 
