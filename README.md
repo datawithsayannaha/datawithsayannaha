@@ -60,7 +60,6 @@ My background in **Mathematics and Applied Mathematics** has strengthened my ana
 
 <p>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
@@ -121,7 +120,7 @@ I have worked on **real-world, end-to-end analytics projects** covering sales, l
 - Built an interactive Power BI dashboard
 - Created KPIs for sales, revenue, orders, and trends
 
-🔗 **[View Project →](https://github.com/datawithsayannaha)**
+🔗 **[View Project →](https://github.com/datawithsayannaha/amazon-ecommerce-sales-dashboard-)**
 
 ---
 
@@ -135,7 +134,7 @@ I have worked on **real-world, end-to-end analytics projects** covering sales, l
 - Analyzed delivery and operational trends
 - Designed dashboards for decision-making
 
-🔗 **[View Project →](https://github.com/datawithsayannaha)**
+🔗 **[View Project →](https://github.com/datawithsayannaha/Logistics-Intelligence-Dashboard)**
 
 ---
 
@@ -149,7 +148,7 @@ I have worked on **real-world, end-to-end analytics projects** covering sales, l
 - Built interactive Power BI reporting
 - Presented insights through data storytelling
 
-🔗 **[View Project →](https://github.com/datawithsayannaha)**
+🔗 **[View Project →](https://github.com/datawithsayannaha/Bank-Risk-Revenue-Intelligence-Platform)**
 
 ---
 
@@ -168,7 +167,7 @@ Worked on multiple analytics projects involving:
 - Exploratory Data Analysis
 - Interactive Dashboard Development
 
-🔗 **[Explore All Projects →](https://github.com/datawithsayannaha)**
+🔗 **[Explore All Projects →](https://github.com/datawithsayannaha?tab=repositories)**
 
 ---
 
