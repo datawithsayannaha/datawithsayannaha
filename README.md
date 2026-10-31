@@ -1,12 +1,8 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:5DE0E6&height=220&section=header&text=Sayan%20Naha&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Entry-Level%20Data%20Analyst%20%7C%20AI-Enabled%20Analytics%20%26%20Automation&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:5DE0E6&height=220&section=header&text=Sayan%20Naha&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Entry-Level%20Data%20Analyst%20%7C%20AI-Enabled%20Analytics%20%26%20Automation&descAlignY=58&descSize=18" width="100%" alt="Sayan Naha Header"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=Entry-Level+Data+Analyst;AI-Enabled+Analytics+%26+Automation;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;AI+Agents+%7C+Data+Visualization+%7C+Business+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&height=70&lines=Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+Excel+%E2%80%A2+AI+Agents;AI-Enabled+Analytics+%26+Automation;Turning+Data+into+Actionable+Insights" alt="Typing SVG"/>
 
 </div>
 
