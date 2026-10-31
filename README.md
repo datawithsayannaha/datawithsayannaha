@@ -184,21 +184,6 @@ I have worked on **real-world, end-to-end analytics projects** covering sales, l
 
 ---
 
-### 📊 Business & Sales Analytics Projects
-
-**Tools:** Excel • SQL • Power BI • Tableau • Python
-
-Worked on multiple analytics projects involving:
-
-- Sales & Revenue Analysis
-- Customer Analysis
-- Operational Analytics
-- Workforce Analytics
-- Financial Analysis
-- KPI Monitoring
-- Exploratory Data Analysis
-- Interactive Dashboard Development
-
 🔗 **[Explore All Projects →](https://github.com/datawithsayannaha?tab=repositories)**
 
 ---
@@ -274,12 +259,13 @@ Interested in working on **data-driven business problems, reporting, dashboards,
 
 ## 🤝 Let's Connect
 
-📧 **Email:** snsayannaha@gmail.com
+📧 **Email:** snsayan2012@gmail.com
 
 💻 **GitHub:** [datawithsayannaha](https://github.com/datawithsayannaha)
 
-🌐 **Portfolio:** (https://snsayan-data-analytics-portfolio.lovable.app/)
+🔗 **LinkedIn:** [sayan-naha](https://www.linkedin.com/in/sayan-naha/)
 
+🌐 **Portfolio:** (https://snsayan-data-analytics-portfolio.lovable.app/)
 ---
 
 <div align="center">
