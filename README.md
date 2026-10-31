@@ -167,6 +167,21 @@ I have worked on **real-world, end-to-end analytics projects** covering sales, l
 
 ---
 
+### 🤖 Operations Intelligence & Incident Management Platform
+
+**Tools:** n8n • AI Agents • Groq LLM • Streamlit • SQL Server • Python 
+
+- Built an end-to-end AI-powered Business Intelligence platform using AI-assisted development
+- Designed n8n workflows to automate ETL, data processing, and data quality validation
+- Integrated multiple operational datasets containing 36,880+ records
+- Implemented AI-powered conversational analytics using Groq LLM
+- Developed Natural Language to SQL workflows for business queries
+- Automated SQL execution, business analysis, and executive report generation
+- Integrated Streamlit dashboard with n8n webhook workflows
+- Created automated workflows for operational insights, risk analysis, and incident investigation
+
+🔗 **[View Project →](https://github.com/datawithsayannaha/Operations-Intelligence-Incident-Management-Platform)**
+
 ### 📊 Business & Sales Analytics Projects
 
 **Tools:** Excel • SQL • Power BI • Tableau • Python
