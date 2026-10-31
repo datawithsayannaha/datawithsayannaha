@@ -29,17 +29,19 @@
 
 ## 👋 About Me
 
-I am an **Aspiring Data Analyst** with a strong foundation in **SQL, Power BI, Excel, Python, Tableau, and Data Visualization**.
+I am an **Aspiring Data Analyst** with a strong foundation in **SQL, Power BI, Excel, Python, Tableau, and AI Agents**.
 
-I enjoy working with data to uncover patterns, build meaningful KPIs, create interactive dashboards, and translate raw data into **clear business insights**.
+I enjoy working with data to uncover patterns, build meaningful KPIs, create interactive dashboards, and translate raw data into **clear business insights**. I also work with **AI Agents, LLM Integration, Prompt Engineering, and Workflow Automation** to build AI-powered analytics solutions and automate business processes.
 
 My background in **Mathematics and Applied Mathematics** has strengthened my analytical thinking, problem-solving ability, and quantitative reasoning.
 
 ### 🎯 Currently Focused On
 
-- Building real-world **Data Analytics projects**
+- Building real-world **Data Analytics & AI-powered projects**
 - Strengthening **SQL & Python for data analysis**
 - Developing advanced **Power BI dashboards and DAX measures**
+- Building **AI Agents and LLM-powered analytics workflows**
+- Exploring **Prompt Engineering, LLM Integration & n8n Automation**
 - Improving **Data Storytelling & Business Analysis**
 - Preparing for **Data Analyst opportunities**
 
@@ -78,6 +80,18 @@ My background in **Mathematics and Applied Mathematics** has strengthened my ana
 
 **Python:** Data Cleaning • EDA • Data Manipulation • Visualization • Statistical Analysis
 
+### 🤖 AI Agents & Automation
+
+<p>
+<img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq%20LLM-F55036?style=for-the-badge"/>
+</p>
+
+**AI & Automation:** AI Agent Development • LLM Integration • Prompt Engineering • Natural Language to SQL • AI-Powered Business Analysis • Workflow Automation • REST API Integration
+
 ### ☁️ Cloud & Modern Analytics
 
 <p>
@@ -103,8 +117,8 @@ My background in **Mathematics and Applied Mathematics** has strengthened my ana
 | **Business Intelligence** | KPI Development, Trend Analysis, Performance Analysis |
 | **DAX** | Measures, Calculated Columns, Time Intelligence, Filter Context |
 | **Statistics** | Descriptive Statistics, Distribution, Correlation, Hypothesis Testing Basics |
+| **AI & Automation** | AI Agents, LLM Integration, Prompt Engineering, n8n Workflows, Natural Language to SQL |
 | **Reporting** | Interactive Dashboards, KPI Reports, Data Storytelling |
-
 ---
 
 ## 🚀 Featured Projects
