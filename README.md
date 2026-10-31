@@ -182,6 +182,8 @@ I have worked on **real-world, end-to-end analytics projects** covering sales, l
 
 🔗 **[View Project →](https://github.com/datawithsayannaha/Operations-Intelligence-Incident-Management-Platform)**
 
+---
+
 ### 📊 Business & Sales Analytics Projects
 
 **Tools:** Excel • SQL • Power BI • Tableau • Python
