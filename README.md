@@ -265,7 +265,7 @@ Interested in working on **data-driven business problems, reporting, dashboards,
 
 🔗 **LinkedIn:** [sayan-naha](https://www.linkedin.com/in/sayan-naha/)
 
-🌐 **Portfolio:** (https://snsayan-data-analytics-portfolio.lovable.app/)
+🌐 **Portfolio:** [Visit My Portfolio](https://snsayan-data-analytics-portfolio.lovable.app/)
 ---
 
 <div align="center">
